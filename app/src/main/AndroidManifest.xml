@@ -16,5 +16,7 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".activities.Calcu2" />
+        <activity android:name=".activities.Calcu3" />
     </application>
 </manifest>
